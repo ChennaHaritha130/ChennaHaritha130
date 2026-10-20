@@ -14,15 +14,17 @@ I enjoy developing hardware-based projects, implementing digital logic, and expl
 - **Areas of Interest:** RTL Design, Digital Electronics, FPGA, VLSI, Hardware Systems
 
 ## Projects
-
-[LED Blinking using Verilog and SmartFusion SoC](https://github.com/ChennaHaritha130/verilog-smartfusion-led-blinking)
+## LED Blinking using Verilog and SmartFusion SoC
 Implemented an LED-blinking design using Verilog HDL, Microchip Libero IDE, and a SmartFusion SoC development kit.
+[LED Blinking using Verilog and SmartFusion SoC](https://github.com/ChennaHaritha130/verilog-smartfusion-led-blinking)
 
-[Vehicle Accident Detection System](https://github.com/ChennaHaritha130/vehicle-accident-detection)
+## Vehicle Accident Detection System
 Developed a hardware-based safety system using Arduino, ADXL345 accelerometer, GPS, GSM, and an MQ-3 alcohol sensor for accident detection and emergency alerts.
+[Vehicle Accident Detection System](https://github.com/ChennaHaritha130/vehicle-accident-detection)
 
-[Anti-Sleep Alarm for Drivers](https://github.com/ChennaHaritha130/anti-sleep-alarm-for-drivers)
+## Anti-Sleep Alarm for Drivers
 Developed an Arduino-based driver alert system using sensors to detect drowsiness-related conditions and trigger an alert.
+[Anti-Sleep Alarm for Drivers](https://github.com/ChennaHaritha130/anti-sleep-alarm-for-drivers)
 
 ## Internship
 **Hindustan Aeronautics Limited (HAL), Bangalore | May–June 2025**
