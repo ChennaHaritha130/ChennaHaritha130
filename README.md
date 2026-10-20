@@ -15,17 +15,14 @@ I enjoy developing hardware-based projects, implementing digital logic, and expl
 
 ## Projects
 
-### 1. LED Blinking using Verilog and SmartFusion SoC
+[LED Blinking using Verilog and SmartFusion SoC](https://github.com/ChennaHaritha130/verilog-smartfusion-led-blinking)
 Implemented an LED-blinking design using Verilog HDL, Microchip Libero IDE, and a SmartFusion SoC development kit.
 
-### 2. Vehicle Accident Detection System
+[Vehicle Accident Detection System](https://github.com/ChennaHaritha130/vehicle-accident-detection)
 Developed a hardware-based safety system using Arduino, ADXL345 accelerometer, GPS, GSM, and an MQ-3 alcohol sensor for accident detection and emergency alerts.
 
-### 3. Anti-Sleep Alarm for Drivers
+[Anti-Sleep Alarm for Drivers](https://github.com/ChennaHaritha130/anti-sleep-alarm-for-drivers)
 Developed an Arduino-based driver alert system using sensors to detect drowsiness-related conditions and trigger an alert.
-
-### 4. VDTA-Based Self-Calibrating Inverse Filter
-Ongoing VLSI research project focused on sensor response compensation, circuit simulation, and performance optimization using Cadence Virtuoso.
 
 ## Internship
 **Hindustan Aeronautics Limited (HAL), Bangalore | May–June 2025**
@@ -35,3 +32,4 @@ Studied avionics computing systems, SoC/FPGA applications, communication protoco
 ## Connect
 - LinkedIn: https://www.linkedin.com/in/haritha-chenna/
 - Email: chennaharitha0@gmail.com
+ 
